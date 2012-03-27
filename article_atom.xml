@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en-ca" xml:base="http://www.dose.ca/" xmlns="http://www.w3.org/2005/Atom">
+  <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+  <subtitle type="html">Vancouver-based songstress living a "dream" with new EP, new record deal.</subtitle>
+  <id>tag:www.dose.ca:content=6171341</id>
+  <rights type="html">Copyright (c) The Vancouver Sun</rights>
+  <updated>2012-02-17T22:10:41Z</updated>
+  <category term="Carly Rae Jepsen" label="ConTopic" />
+  <category term="Postmedia News" label="Distributor" />
+  <category term="STRY" label="ContentTypeCode" />
+  <category term="DOSE" label="Catalog" />
+  <category term="Y" label="Comments" />
+  <category term="UTF8" label="Format" />
+  <category relevance="18" term="Vancouver" label="City" />
+  <category relevance="8" term="MuchMusic.com" label="Company" />
+  <category relevance="14" term="Canada" label="Country" />
+  <category relevance="45" term="Bieber , Justin" label="Individual" />
+  <category relevance="16" term="Braun , Scooter" label="Individual" />
+  <category relevance="16" term="Gomez , Selena" label="Individual" />
+  <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+  <category relevance="20" term="Jones , Norah" label="Individual" />
+  <category relevance="15" term="Mitchell , Joni" label="Individual" />
+  <category relevance="29" term="Ramsay , Josh" label="Individual" />
+  <category relevance="15" term="Stewart , Ryan" label="Individual" />
+  <category relevance="15" term="Taylors , James" label="Individual" />
+  <category relevance="15" term="Van Morrisons ," label="Individual" />
+  <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+  <category relevance="16" term="Canadian Idol" label="Misc" />
+  <category relevance="21" term="Valentine's Day" label="Misc" />
+  <category relevance="14" term="La Roux" label="Organization" />
+  <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+  <category relevance="15" term="James Taylors" label="Person" />
+  <category relevance="15" term="Joni Mitchell" label="Person" />
+  <category relevance="29" term="Josh Ramsay" label="Person" />
+  <category relevance="45" term="Justin Bieber" label="Person" />
+  <category relevance="20" term="Norah Jones" label="Person" />
+  <category relevance="15" term="Ryan Stewart" label="Person" />
+  <category relevance="16" term="Scooter Braun" label="Person" />
+  <category relevance="16" term="Selena Gomez" label="Person" />
+  <category relevance="15" term="Van Morrisons" label="Person" />
+  <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+  <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+  <category relevance="62" term="Entertainment" label="Topic" />
+  <category relevance="33" term="Holidays" label="Topic" />
+  <category relevance="62" term="Music" label="Topic" />
+  <category relevance="62" term="Singer Songwriters" label="Topic" />
+  <generator>(c) Postmedia Network Inc.</generator>
+  <link href="http://www.dose.ca/6171341.ATOM" rel="alternate" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+  <link href="http://www.dose.ca/6171341.ATOM" rel="self" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+  <entry Status="FREE">
+    <id>tag:www.dose.ca:content=6171341</id>
+    <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+    <summary type="html"></summary>
+    <published>2012-02-18T00:00:00Z</published>
+    <updated>2012-02-17T22:10:41Z</updated>
+    <author>
+      <name>Francois Marchand</name>
+    </author>
+    <link href="Curiosity+Didn+Kill+Carly+Jepsen/6171341/story.html" Abstract="Vancouver-based songstress living a &quot;dream&quot; with new EP, new record deal." Credit="Francois Marchand" rel="alternate" type="text/html" title="[ more ]" />
+    <link rel="canonical" href="http://www.vancouversun.com/entertainment/Curiosity+Didn+Kill+Carly+Jepsen/6171341/story.html" />
+    <link href="6145769.bin" Abstract="Carly Rae Jepsen's career got a lift when Justin Bieber and Selena Gomez tweeter their admiration for Call Me Maybe." Credit="Handout" rel="enclosure" type="image/jpeg" title="music" />
+    <link href="Justin+Bieber+scores+record+deal+Carly+Jepsen/6164007/story.html" Abstract="Carly Rae Jepsen, whose song &quot;Call Me Maybe&quot; has been a staple on Canadian radio and television lately, has recently signed to Schoolboy Records, the label run by Justin Bieber's manager, Scooter Braun." Credit="Melody Lau" rel="related" type="text/html" title="Justin Bieber scores a record deal for Carly Rae Jepsen" />
+    <category term="Carly Rae Jepsen" label="ConTopic" />
+    <category term="Postmedia News" label="Distributor" />
+    <category term="STRY" label="ContentTypeCode" />
+    <category term="DOSE" label="Catalog" />
+    <category term="Y" label="Comments" />
+    <category term="UTF8" label="Format" />
+    <category relevance="18" term="Vancouver" label="City" />
+    <category relevance="8" term="MuchMusic.com" label="Company" />
+    <category relevance="14" term="Canada" label="Country" />
+    <category relevance="45" term="Bieber , Justin" label="Individual" />
+    <category relevance="16" term="Braun , Scooter" label="Individual" />
+    <category relevance="16" term="Gomez , Selena" label="Individual" />
+    <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+    <category relevance="20" term="Jones , Norah" label="Individual" />
+    <category relevance="15" term="Mitchell , Joni" label="Individual" />
+    <category relevance="29" term="Ramsay , Josh" label="Individual" />
+    <category relevance="15" term="Stewart , Ryan" label="Individual" />
+    <category relevance="15" term="Taylors , James" label="Individual" />
+    <category relevance="15" term="Van Morrisons ," label="Individual" />
+    <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+    <category relevance="16" term="Canadian Idol" label="Misc" />
+    <category relevance="21" term="Valentine's Day" label="Misc" />
+    <category relevance="14" term="La Roux" label="Organization" />
+    <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+    <category relevance="15" term="James Taylors" label="Person" />
+    <category relevance="15" term="Joni Mitchell" label="Person" />
+    <category relevance="29" term="Josh Ramsay" label="Person" />
+    <category relevance="45" term="Justin Bieber" label="Person" />
+    <category relevance="20" term="Norah Jones" label="Person" />
+    <category relevance="15" term="Ryan Stewart" label="Person" />
+    <category relevance="16" term="Scooter Braun" label="Person" />
+    <category relevance="16" term="Selena Gomez" label="Person" />
+    <category relevance="15" term="Van Morrisons" label="Person" />
+    <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+    <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+    <category relevance="62" term="Entertainment" label="Topic" />
+    <category relevance="33" term="Holidays" label="Topic" />
+    <category relevance="62" term="Music" label="Topic" />
+    <category relevance="62" term="Singer Songwriters" label="Topic" />
+    <content type="xhtml">
+      <div id="1">&lt;P&gt;Carly Rae Jepsen's plan was to release her sophomore album on Valentine's Day ... last year.&lt;/P&gt;&lt;P&gt;&amp;quot;It didn't happen,&amp;quot; Jepsen says. &amp;quot;I really wanted to make sure I got the second CD right. I think I got a little nervous about the idea of the sophomore being a little less-than because it's so rushed. So I wanted to give myself the time to not feel that pressure.&amp;quot;&lt;/P&gt;&lt;P&gt;The Mission-born and now Vancouver-based songstress, famous for finishing third on Canadian Idol back in 2005, admits that another element that delayed the release of Curiosity, the followup to her 2008 debut Tug of War, was a distinct change of direction.&lt;/P&gt;&lt;P&gt;(Note: Curiosity was originally meant to be a full-length album but was pared down to a six-song EP just a few days ahead of its Tuesday release. A full album should be released later this year.)&lt;/P&gt;&lt;P&gt;Jepsen recently signed to Schoolboy Records, the label run by Justin Bieber's manager, Scooter Braun. Jepsen made the announcement on MuchMusic Tuesday (Feb. 14) night with a special recorded message from Bieber himself.&lt;/P&gt;&lt;P&gt;Better known for her &amp;quot;old-soul&amp;quot; acoustic singer-songwriter style, Jepsen is now embracing glossy, glitzy pop, and her latest single Call Me Maybe has made her a favourite of Bieber and Selena Gomez, who tweeted their new-found love for Jepsen's tune last month and sent the single flying.&lt;/P&gt;&lt;P&gt;&amp;quot;How can you expect that?&amp;quot; Jepsen asks, saying Call Me Maybe was originally written &amp;quot;from the heart&amp;quot; as an acoustic number. &amp;quot;It's a little bit of a dream I'm walking in right now, but it's a good one.&lt;/P&gt;&lt;P&gt;&amp;quot;It just sort of happened,&amp;quot; she says of her new pop orientation. &amp;quot;It wasn't a conscious decision. Curiosity, the song, sparked the idea for me. I was and still am very much inspired by the James Taylors and the Van Morrisons of the world. Those are the types of music I will love until the day that I die. But I also feel life is about exploration and for whatever reason I kept coming back to La Roux and Dragonette and these sounds I wanted to try myself.&amp;quot;&lt;/P&gt;&lt;P&gt;Call Me Maybe, which tells the story of a girl who confronts her fears and asks a boy out (something Jepsen admits she hasn't had the courage to do), was co-produced by Marianas Trench frontman Josh Ramsay.&lt;/P&gt;&lt;P&gt;Jepsen calls Ramsay &amp;quot;kind of a pop genius in Canada,&amp;quot; and says he was key in bringing the song to the next level.&lt;/P&gt;&lt;P&gt;&amp;quot;Josh is one of the people I look up to in the business. I met him early on enough that he led and guided my career. To this day, if I have a touring issue or something I can't quite sort out, I call him. We get to hang out as friends but when we're in the studio he really does transform. I'm attracted to people - like (Juno-nominated producer) Ryan Stewart, who was involved with the majority of Curiosity - who get really excited when they're working. I like when the song starts to take over and you feel like you have to dance more than write.&amp;quot;&lt;/P&gt;&lt;P&gt;Still, Jepsen's love of singer-songwriter style material certainly did not die with Curiosity, and the EP ends on a reinvention of Joni Mitchell's From Both Sides Now.&lt;/P&gt;&lt;P&gt;Listening to Curiosity, you really do sense that pop fits Jepsen like a glove.&lt;/P&gt;&lt;P&gt;&amp;quot;I think I'm curious about love, which is the general theme of my record and which is why Valentine's Day is so fitting,&amp;quot; Jepsen says. &amp;quot;I think when it comes to pop I'm past the point of curiosity. I admit to a full-on obsession with it, and I think it's getting worse, actually.&lt;/P&gt;&lt;P&gt;&amp;quot;I think part of me thought I would release an album like this and strip it down for the third, but I want to go a little further. Who's to say that when I'm in my 40s I can't also put out that Norah Jones record I've always dreamed about. I want to do it all. Why not?&amp;quot;&lt;/P&gt;&lt;P&gt;&lt;/P&gt;&lt;P&gt;&lt;/P&gt;</div>
+    </content>
+    <rights type="text">Copyright (c) The Vancouver Sun</rights>
+    <source>
+      <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+      <subtitle type="html">Vancouver-based songstress living a "dream" with new EP, new record deal.</subtitle>
+      <id>tag:www.dose.ca:content=6171341</id>
+      <rights type="html">Copyright (c) The Vancouver Sun</rights>
+      <updated>2012-02-17T22:10:41Z</updated>
+      <category term="Carly Rae Jepsen" label="ConTopic" />
+      <category term="Postmedia News" label="Distributor" />
+      <category term="STRY" label="ContentTypeCode" />
+      <category term="DOSE" label="Catalog" />
+      <category term="Y" label="Comments" />
+      <category term="UTF8" label="Format" />
+      <category relevance="18" term="Vancouver" label="City" />
+      <category relevance="8" term="MuchMusic.com" label="Company" />
+      <category relevance="14" term="Canada" label="Country" />
+      <category relevance="45" term="Bieber , Justin" label="Individual" />
+      <category relevance="16" term="Braun , Scooter" label="Individual" />
+      <category relevance="16" term="Gomez , Selena" label="Individual" />
+      <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+      <category relevance="20" term="Jones , Norah" label="Individual" />
+      <category relevance="15" term="Mitchell , Joni" label="Individual" />
+      <category relevance="29" term="Ramsay , Josh" label="Individual" />
+      <category relevance="15" term="Stewart , Ryan" label="Individual" />
+      <category relevance="15" term="Taylors , James" label="Individual" />
+      <category relevance="15" term="Van Morrisons ," label="Individual" />
+      <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+      <category relevance="16" term="Canadian Idol" label="Misc" />
+      <category relevance="21" term="Valentine's Day" label="Misc" />
+      <category relevance="14" term="La Roux" label="Organization" />
+      <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+      <category relevance="15" term="James Taylors" label="Person" />
+      <category relevance="15" term="Joni Mitchell" label="Person" />
+      <category relevance="29" term="Josh Ramsay" label="Person" />
+      <category relevance="45" term="Justin Bieber" label="Person" />
+      <category relevance="20" term="Norah Jones" label="Person" />
+      <category relevance="15" term="Ryan Stewart" label="Person" />
+      <category relevance="16" term="Scooter Braun" label="Person" />
+      <category relevance="16" term="Selena Gomez" label="Person" />
+      <category relevance="15" term="Van Morrisons" label="Person" />
+      <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+      <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+      <category relevance="62" term="Entertainment" label="Topic" />
+      <category relevance="33" term="Holidays" label="Topic" />
+      <category relevance="62" term="Music" label="Topic" />
+      <category relevance="62" term="Singer Songwriters" label="Topic" />
+      <generator>(c) Postmedia Network Inc.</generator>
+      <link href="http://www.dose.ca/6171341.ATOM" rel="alternate" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+      <link href="http://www.dose.ca/6171341.ATOM" rel="self" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    </source>
+  </entry>
+  <entry Status="FREE">
+    <id>tag:www.dose.ca:content=6145769</id>
+    <title type="html">music</title>
+    <summary type="html"></summary>
+    <published>2012-02-13T00:00:00Z</published>
+    <updated>2012-02-13T20:12:44Z</updated>
+    <author>
+      <name>Handout</name>
+    </author>
+    <link href="6145769.bin" Abstract="Carly Rae Jepsen's career got a lift when Justin Bieber and Selena Gomez tweeter their admiration for Call Me Maybe." Credit="Handout" rel="alternate" type="image/jpeg" title="[ more ]" />
+    <link href="Curiosity+Didn+Kill+Carly+Jepsen/6171341/story.html?tab=PHOT" Abstract="Vancouver-based songstress living a &quot;dream&quot; with new EP, new record deal." Credit="Francois Marchand" rel="via" type="text/html" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    <category term="Files" label="Distributor" />
+    <category term="PHOT" label="ContentTypeCode" />
+    <category term="VASN" label="Catalog" />
+    <category term="N" label="Comments" />
+    <category term="JPEG" label="Format" />
+    <category relevance="6" term="Bieber , Justin" label="Individual" />
+    <category relevance="6" term="Gomez , Selena" label="Individual" />
+    <category relevance="6" term="Jepsen , Carly Rae" label="Individual" />
+    <category relevance="100" term="1743~Carly Rae Jepsen~Justin Bieber~Selena Gomez" label="InformQString" />
+    <category relevance="6" term="Carly Rae Jepsen" label="Person" />
+    <category relevance="6" term="Justin Bieber" label="Person" />
+    <category relevance="6" term="Selena Gomez" label="Person" />
+    <category relevance="100" term="posted" label="SunNewsTicker" />
+    <category relevance="98" term="Arts, Entertainment, and Media" label="Topic" />
+    <category relevance="98" term="Celebrity News" label="Topic" />
+    <category relevance="98" term="Entertainment" label="Topic" />
+    <category relevance="98" term="Music Stars" label="Topic" />
+    <content type="html">Carly Rae Jepsen's career got a lift when Justin Bieber and Selena Gomez tweeter their admiration for Call Me Maybe.</content>
+    <rights type="text">Copyright (c) The Vancouver Sun</rights>
+    <source>
+      <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+      <subtitle type="html">Vancouver-based songstress living a "dream" with new EP, new record deal.</subtitle>
+      <id>tag:www.dose.ca:content=6171341</id>
+      <rights type="html">Copyright (c) The Vancouver Sun</rights>
+      <updated>2012-02-17T22:10:41Z</updated>
+      <category term="Carly Rae Jepsen" label="ConTopic" />
+      <category term="Postmedia News" label="Distributor" />
+      <category term="STRY" label="ContentTypeCode" />
+      <category term="DOSE" label="Catalog" />
+      <category term="Y" label="Comments" />
+      <category term="UTF8" label="Format" />
+      <category relevance="18" term="Vancouver" label="City" />
+      <category relevance="8" term="MuchMusic.com" label="Company" />
+      <category relevance="14" term="Canada" label="Country" />
+      <category relevance="45" term="Bieber , Justin" label="Individual" />
+      <category relevance="16" term="Braun , Scooter" label="Individual" />
+      <category relevance="16" term="Gomez , Selena" label="Individual" />
+      <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+      <category relevance="20" term="Jones , Norah" label="Individual" />
+      <category relevance="15" term="Mitchell , Joni" label="Individual" />
+      <category relevance="29" term="Ramsay , Josh" label="Individual" />
+      <category relevance="15" term="Stewart , Ryan" label="Individual" />
+      <category relevance="15" term="Taylors , James" label="Individual" />
+      <category relevance="15" term="Van Morrisons ," label="Individual" />
+      <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+      <category relevance="16" term="Canadian Idol" label="Misc" />
+      <category relevance="21" term="Valentine's Day" label="Misc" />
+      <category relevance="14" term="La Roux" label="Organization" />
+      <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+      <category relevance="15" term="James Taylors" label="Person" />
+      <category relevance="15" term="Joni Mitchell" label="Person" />
+      <category relevance="29" term="Josh Ramsay" label="Person" />
+      <category relevance="45" term="Justin Bieber" label="Person" />
+      <category relevance="20" term="Norah Jones" label="Person" />
+      <category relevance="15" term="Ryan Stewart" label="Person" />
+      <category relevance="16" term="Scooter Braun" label="Person" />
+      <category relevance="16" term="Selena Gomez" label="Person" />
+      <category relevance="15" term="Van Morrisons" label="Person" />
+      <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+      <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+      <category relevance="62" term="Entertainment" label="Topic" />
+      <category relevance="33" term="Holidays" label="Topic" />
+      <category relevance="62" term="Music" label="Topic" />
+      <category relevance="62" term="Singer Songwriters" label="Topic" />
+      <generator>(c) Postmedia Network Inc.</generator>
+      <link href="http://www.dose.ca/6171341.ATOM" rel="alternate" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+      <link href="http://www.dose.ca/6171341.ATOM" rel="self" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    </source>
+  </entry>
+  <entry Status="FREE">
+    <id>tag:www.dose.ca:content=6164012</id>
+    <title type="html">Carly Rae Jepsen</title>
+    <summary type="html"></summary>
+    <published>2012-02-16T00:00:00Z</published>
+    <updated>2012-02-16T20:11:02Z</updated>
+    <author>
+      <name>Handout</name>
+    </author>
+    <link href="6164012.bin" Abstract="Carly Rae Jepsen reacts to a taped message from Justin Bieber on MuchMusic's New Music Live, Feb. 14. Jepsen has signed to Schoolboy Records, the record label of Justin Bieber&amp;#8217;s manager Scooter Braun." Credit="Handout" rel="alternate" type="image/jpeg" title="[ more ]" />
+    <link href="Curiosity+Didn+Kill+Carly+Jepsen/6171341/story.html?tab=PHOT" Abstract="Vancouver-based songstress living a &quot;dream&quot; with new EP, new record deal." Credit="Francois Marchand" rel="via" type="text/html" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    <category term="MuchMusic" label="Distributor" />
+    <category term="PHOT" label="ContentTypeCode" />
+    <category term="CAN" label="Catalog" />
+    <category term="N" label="Comments" />
+    <category term="JPG" label="Format" />
+    <category relevance="43" term="MuchMusic.com" label="Company" />
+    <category relevance="100" term="Bieber , Justin" label="Individual" />
+    <category relevance="39" term="Braun , Scooter" label="Individual" />
+    <category relevance="100" term="1743~Justin Bieber~MuchMusic.com~Scooter Braun" label="InformQString" />
+    <category relevance="100" term="Justin Bieber" label="Person" />
+    <category relevance="39" term="Scooter Braun" label="Person" />
+    <category relevance="100" term="HighRes" label="Quality" />
+    <category relevance="100" term="Arts, Entertainment, and Media" label="Topic" />
+    <category relevance="100" term="Celebrity News" label="Topic" />
+    <category relevance="100" term="Entertainment" label="Topic" />
+    <category relevance="72" term="Music" label="Topic" />
+    <category relevance="100" term="Music Stars" label="Topic" />
+    <content type="html">Carly Rae Jepsen reacts to a taped message from Justin Bieber on MuchMusic's New Music Live, Feb. 14. Jepsen has signed to Schoolboy Records, the record label of Justin Bieber&amp;#8217;s manager Scooter Braun.</content>
+    <rights type="text">Copyright (c) National Post</rights>
+    <source>
+      <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+      <subtitle type="html">Vancouver-based songstress living a "dream" with new EP, new record deal.</subtitle>
+      <id>tag:www.dose.ca:content=6171341</id>
+      <rights type="html">Copyright (c) The Vancouver Sun</rights>
+      <updated>2012-02-17T22:10:41Z</updated>
+      <category term="Carly Rae Jepsen" label="ConTopic" />
+      <category term="Postmedia News" label="Distributor" />
+      <category term="STRY" label="ContentTypeCode" />
+      <category term="DOSE" label="Catalog" />
+      <category term="Y" label="Comments" />
+      <category term="UTF8" label="Format" />
+      <category relevance="18" term="Vancouver" label="City" />
+      <category relevance="8" term="MuchMusic.com" label="Company" />
+      <category relevance="14" term="Canada" label="Country" />
+      <category relevance="45" term="Bieber , Justin" label="Individual" />
+      <category relevance="16" term="Braun , Scooter" label="Individual" />
+      <category relevance="16" term="Gomez , Selena" label="Individual" />
+      <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+      <category relevance="20" term="Jones , Norah" label="Individual" />
+      <category relevance="15" term="Mitchell , Joni" label="Individual" />
+      <category relevance="29" term="Ramsay , Josh" label="Individual" />
+      <category relevance="15" term="Stewart , Ryan" label="Individual" />
+      <category relevance="15" term="Taylors , James" label="Individual" />
+      <category relevance="15" term="Van Morrisons ," label="Individual" />
+      <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+      <category relevance="16" term="Canadian Idol" label="Misc" />
+      <category relevance="21" term="Valentine's Day" label="Misc" />
+      <category relevance="14" term="La Roux" label="Organization" />
+      <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+      <category relevance="15" term="James Taylors" label="Person" />
+      <category relevance="15" term="Joni Mitchell" label="Person" />
+      <category relevance="29" term="Josh Ramsay" label="Person" />
+      <category relevance="45" term="Justin Bieber" label="Person" />
+      <category relevance="20" term="Norah Jones" label="Person" />
+      <category relevance="15" term="Ryan Stewart" label="Person" />
+      <category relevance="16" term="Scooter Braun" label="Person" />
+      <category relevance="16" term="Selena Gomez" label="Person" />
+      <category relevance="15" term="Van Morrisons" label="Person" />
+      <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+      <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+      <category relevance="62" term="Entertainment" label="Topic" />
+      <category relevance="33" term="Holidays" label="Topic" />
+      <category relevance="62" term="Music" label="Topic" />
+      <category relevance="62" term="Singer Songwriters" label="Topic" />
+      <generator>(c) Postmedia Network Inc.</generator>
+      <link href="http://www.dose.ca/6171341.ATOM" rel="alternate" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+      <link href="http://www.dose.ca/6171341.ATOM" rel="self" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    </source>
+  </entry>
+  <entry Status="FREE">
+    <id>tag:www.dose.ca:content=6164007</id>
+    <title type="html">Justin Bieber scores a record deal for Carly Rae Jepsen</title>
+    <summary type="html"></summary>
+    <published>2012-02-16T00:00:00Z</published>
+    <updated>2012-02-16T20:10:59Z</updated>
+    <author>
+      <name>Melody Lau</name>
+    </author>
+    <link href="Justin+Bieber+scores+record+deal+Carly+Jepsen/6164007/story.html" Abstract="Carly Rae Jepsen, whose song &quot;Call Me Maybe&quot; has been a staple on Canadian radio and television lately, has recently signed to Schoolboy Records, the label run by Justin Bieber's manager, Scooter Braun." Credit="Melody Lau" rel="alternate" type="text/html" title="[ more ]" />
+    <link href="6164012.bin" Abstract="Carly Rae Jepsen reacts to a taped message from Justin Bieber on MuchMusic's New Music Live, Feb. 14. Jepsen has signed to Schoolboy Records, the record label of Justin Bieber&amp;#8217;s manager Scooter Braun." Credit="Handout" rel="enclosure" type="image/jpeg" title="Carly Rae Jepsen" />
+    <link href="Justin+Bieber+launches+charity+effort+holiday+album/5645113/story.html" Abstract="Teen sensation Justin Bieber kicked off a new charity drive coinciding with Tuesday's release of his Christmas album, Under The Mistletoe." Credit="Piya Sinha-Roy" rel="related" type="text/html" title="Justin Bieber launches charity effort, holiday album" />
+    <link href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CB0QqQIwAA&amp;url=http%3A%2F%2Fwww.dose.ca%2FJustin%2BBieber%2BValentine%2Bwith%2BYoung%2BGuaranteed%2BMelt%2BYour%2BCold%2BBlack%2BHeart%2F6157407%2Fstory.html&amp;ei=ZFc9T4SaMNHiggfThdGXCA&amp;usg=AFQjCNHw78SPvqn7SXEW40FwuEtpmDdYEQ" Abstract="On Dose.ca: Justin Bieber spends Valentine's Day with fan" Credit="" rel="related" type="text/html" title="On Dose.ca: Justin Bieber spends Valentine's Day with fan" />
+    <link href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=7&amp;ved=0CEwQFjAG&amp;url=http%3A%2F%2Fwww.dose.ca%2FListen%2BJustin%2BBieber%2BDebuts%2BSong%2BAlright%2BToronto%2F5898825%2Fstory.html&amp;ei=ZFc9T4SaMNHiggfThdGXCA&amp;usg=AFQjCNFbziLjmZdkO9aea_VuBC7gwAIjvQ" Abstract="On Dose.ca: Justin Bieber debuts new song in Toronto" Credit="" rel="related" type="text/html" title="On Dose.ca: Justin Bieber debuts new song in Toronto" />
+    <link href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CCMQFjAA&amp;url=http%3A%2F%2Fwww.dose.ca%2Fmusic%2Fphotogallery.html%3Fid%3D5761094%26enablerating%3Dfalse&amp;ei=p1c9T_3EEMbpggfcodCECA&amp;usg=AFQjCNHK1JGQ9bdAix-LR_DzQ0lU4Pz9mw" Abstract="On Dose.ca: Justin Bieber on the Today Show" Credit="" rel="related" type="text/html" title="On Dose.ca: Justin Bieber on the Today Show" />
+    <link href="Forecast/6135292/story.html" Abstract="On our pop culture radar this week: This Means War, Ghost Rider 2, Life's Too Short, Islands and more." Credit="" rel="related" type="text/html" title="Pop Forecast" />
+    <category term="Carly Rae Jepsen" label="ConTopic" />
+    <category term="Postmedia News" label="Distributor" />
+    <category term="STRY" label="ContentTypeCode" />
+    <category term="CAN" label="Catalog" />
+    <category term="Y" label="Comments" />
+    <category term="UTF8" label="Format" />
+    <category term="2012-07-16 16:00:00Z" label="Expires" />
+    <category relevance="14" term="Los Angeles" label="City" />
+    <category relevance="19" term="MuchMusic.com" label="Company" />
+    <category relevance="15" term="Canada" label="Country" />
+    <category relevance="100" term="Bieber , Justin" label="Individual" />
+    <category relevance="45" term="Braun , Scooter" label="Individual" />
+    <category relevance="16" term="Iovine , Jimmy" label="Individual" />
+    <category relevance="85" term="Jepsen , Carly Rae" label="Individual" />
+    <category relevance="100" term="0~Justin Bieber~Carly Rae Jepsen~Scooter Braun~MuchMusic.com" label="InformQString" />
+    <category relevance="22" term="American Idol" label="Misc" />
+    <category relevance="19" term="Canadian Idol" label="Misc" />
+    <category relevance="85" term="Carly Rae Jepsen" label="Person" />
+    <category relevance="16" term="Jimmy Iovine" label="Person" />
+    <category relevance="100" term="Justin Bieber" label="Person" />
+    <category relevance="45" term="Scooter Braun" label="Person" />
+    <content type="html">Carly Rae Jepsen, whose song "Call Me Maybe" has been a staple on Canadian radio and television lately, has recently signed to Schoolboy Records, the label run by Justin Bieber's manager, Scooter Braun.</content>
+    <rights type="text">Copyright (c) National Post</rights>
+    <source>
+      <title type="html">Curiosity Didn't Kill Carly Rae Jepsen</title>
+      <subtitle type="html">Vancouver-based songstress living a "dream" with new EP, new record deal.</subtitle>
+      <id>tag:www.dose.ca:content=6171341</id>
+      <rights type="html">Copyright (c) The Vancouver Sun</rights>
+      <updated>2012-02-17T22:10:41Z</updated>
+      <category term="Carly Rae Jepsen" label="ConTopic" />
+      <category term="Postmedia News" label="Distributor" />
+      <category term="STRY" label="ContentTypeCode" />
+      <category term="DOSE" label="Catalog" />
+      <category term="Y" label="Comments" />
+      <category term="UTF8" label="Format" />
+      <category relevance="18" term="Vancouver" label="City" />
+      <category relevance="8" term="MuchMusic.com" label="Company" />
+      <category relevance="14" term="Canada" label="Country" />
+      <category relevance="45" term="Bieber , Justin" label="Individual" />
+      <category relevance="16" term="Braun , Scooter" label="Individual" />
+      <category relevance="16" term="Gomez , Selena" label="Individual" />
+      <category relevance="100" term="Jepsen , Carly Rae" label="Individual" />
+      <category relevance="20" term="Jones , Norah" label="Individual" />
+      <category relevance="15" term="Mitchell , Joni" label="Individual" />
+      <category relevance="29" term="Ramsay , Josh" label="Individual" />
+      <category relevance="15" term="Stewart , Ryan" label="Individual" />
+      <category relevance="15" term="Taylors , James" label="Individual" />
+      <category relevance="15" term="Van Morrisons ," label="Individual" />
+      <category relevance="100" term="615~Carly Rae Jepsen~Justin Bieber~Josh Ramsay~Valentine's Day" label="InformQString" />
+      <category relevance="16" term="Canadian Idol" label="Misc" />
+      <category relevance="21" term="Valentine's Day" label="Misc" />
+      <category relevance="14" term="La Roux" label="Organization" />
+      <category relevance="100" term="Carly Rae Jepsen" label="Person" />
+      <category relevance="15" term="James Taylors" label="Person" />
+      <category relevance="15" term="Joni Mitchell" label="Person" />
+      <category relevance="29" term="Josh Ramsay" label="Person" />
+      <category relevance="45" term="Justin Bieber" label="Person" />
+      <category relevance="20" term="Norah Jones" label="Person" />
+      <category relevance="15" term="Ryan Stewart" label="Person" />
+      <category relevance="16" term="Scooter Braun" label="Person" />
+      <category relevance="16" term="Selena Gomez" label="Person" />
+      <category relevance="15" term="Van Morrisons" label="Person" />
+      <category relevance="62" term="Arts, Entertainment, and Media" label="Topic" />
+      <category relevance="33" term="Culture and Lifestyle" label="Topic" />
+      <category relevance="62" term="Entertainment" label="Topic" />
+      <category relevance="33" term="Holidays" label="Topic" />
+      <category relevance="62" term="Music" label="Topic" />
+      <category relevance="62" term="Singer Songwriters" label="Topic" />
+      <generator>(c) Postmedia Network Inc.</generator>
+      <link href="http://www.dose.ca/6171341.ATOM" rel="alternate" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+      <link href="http://www.dose.ca/6171341.ATOM" rel="self" type="application/atom+xml" title="Curiosity Didn't Kill Carly Rae Jepsen" />
+    </source>
+  </entry>
+</feed>
